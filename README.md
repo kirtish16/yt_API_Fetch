@@ -44,11 +44,11 @@ The API endpoints are:
 
 + Fetching videos 
 
-  ![Success](/screenshots/success.png)
+  ![Success](/Screenshots/success.png)
  
 + Paginated response of saved videos 
 
-  ![Response](/screenshots/response.jpg)
+  ![Response](/Screenshots/response.jpg)
  
 
 
